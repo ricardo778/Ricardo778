@@ -1,4 +1,10 @@
-### Languages and Tools:
+# Hi 👋, I'm Ricardo
+
+Junior Software Developer focused on Full-Stack, web, and mobile development, specialized in building robust APIs, scalable applications, and database integrations.
+
+---
+
+### 🛠️ Languages and Tools:
 
 <p align="left">
   <a href="https://skillicons.dev">
