@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ricardo Vega 👋
+# ¡Hola! Soy Ricardo 👋
 
 > **Junior Software Developer focused on Full-Stack, web, and mobile development, specialized in building robust APIs, scalable applications, and database integrations.**
 
