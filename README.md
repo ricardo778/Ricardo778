@@ -1,44 +1,15 @@
-<div align="center">
-  <h1>Hi 👋, I'm Ricardo</h1>
-  <p><strong>Full-Stack Developer</strong></p>
-  <p>Building robust APIs, scalable web & mobile applications, and reliable database architectures.</p>
-</div>
+# Hi 👋, I'm Ricardo
+
+Junior Software Developer focused on Full-Stack, web, and mobile development, specialized in building robust APIs, scalable applications, and database integrations.
 
 ---
 
-### 🚀 About Me
+### 🛠️ Languages and Tools:
 
-- 💻 Focused on **Full-Stack**, **Web**, and **Mobile** software development.
-- ⚙️ Specialized in designing **REST APIs**, containerized environments, and cloud integrations.
-- 🎯 Always learning, optimizing workflows, and writing clean, maintainable code.
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,dart,php,html,css" alt="Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,dart,php,py,html,css,tailwind,bootstrap,nestjs,react,vite,nextjs,fastapi&perline=14" alt="tech-icons" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,flutter,npm,nodejs,figma,vercel,postman,express,sqlite,supabase&perline=15" alt="tech-icons" />
+  </a>
 </p>
-
-#### Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express" alt="Backend" />
-</p>
-
-#### Frontend & Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,tailwind,bootstrap" alt="Frontend & Mobile" />
-</p>
-
-#### Databases & Storage
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase" alt="Databases" />
-</p>
-
-#### DevOps, Cloud & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,npm,figma" alt="Tools" />
-</p>
-
----
