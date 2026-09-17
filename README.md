@@ -10,6 +10,6 @@ Junior Software Developer focused on Full-Stack, web, and mobile development, sp
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,dart,php,py,html,css,tailwind,bootstrap,nestjs,react,vite,nextjs,fastapi&perline=14" alt="tech-icons" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,flutter,npm,nodejs,figma,vercel,postman,express,sqlite,supabase&perline=15" alt="tech-icons" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,flutter,npm,nodejs,figma,vercel,postman,express,sqlite,azure,supabase&perline=15" alt="tech-icons" />
   </a>
 </p>
